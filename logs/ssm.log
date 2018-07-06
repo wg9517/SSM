@@ -1,0 +1,8 @@
+[INFO] [2018-06-29 15:19:26][com.fanwen.controller.TestMybatis]{"userId":0}
+  [INFO] [2018-06-29 15:35:05][com.fanwen.controller.TestMybatis]{"userId":0}
+  [INFO] [2018-06-29 17:12:32][com.fanwen.controller.TestMybatis]{"id":1,"password":"345","username":"测试"}
+  [INFO] [2018-06-29 21:07:39][com.fanwen.controller.TestMybatis]{"id":1,"password":"345","username":"测试"}
+  [INFO] [2018-06-29 21:07:54][com.fanwen.controller.TestMybatis]{"id":1,"password":"345","username":"测试"}
+  [INFO] [2018-06-29 21:09:16][com.fanwen.controller.TestMybatis]{"id":1,"password":"345","username":"测试"}
+  [INFO] [2018-06-29 21:09:55][com.fanwen.controller.TestMybatis]{"id":1,"password":"345","username":"测试"}
+  
